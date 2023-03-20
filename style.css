@@ -26,7 +26,7 @@ body {
   border-radius: 35px;
   background-size: cover;
   cursor: pointer;
-  transition: 0.5s;
+  transition: 0.5s ease-in-out;
 }
 
 .container .card:hover::before {
